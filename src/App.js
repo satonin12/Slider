@@ -39,6 +39,7 @@ class App extends Component {
   }
 }
 
+/*
 function Hello(){
   let abv = "mazafaka !!! ;-p"
   return (
@@ -65,5 +66,6 @@ function MeetAll(){
       </div>
   )
 }
+*/
 
 export default App;
